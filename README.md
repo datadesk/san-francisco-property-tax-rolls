@@ -10,6 +10,6 @@ It does not include owner names.
 
 ### Source 2: CPRA
 
-The Assessor-Recorder's office provided a set of data extracts in response to [a California Public Records Act request](https://www.muckrock.com/foi/san-francisco-141/san-francisco-property-roll-with-owner-names-66650/). It is a snapshot in time that covers 7-1-2017 to 6-30-2018.
+The Assessor-Recorder's office provided a set of data extracts in response to [a California Public Records Act request](https://www.muckrock.com/foi/san-francisco-141/san-francisco-property-roll-with-owner-names-66650/). It is a snapshot in time that covers 7-1-2017 to 6-30-2018. The source files, provided in fixed-width format, have been converted into comma-delimited format using [parse.sh](./cpra/parse.sh).
 
 It does include owner names.
