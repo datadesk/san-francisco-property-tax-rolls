@@ -1,0 +1,16 @@
+column,start,length
+unused,0,1
+volume_number,1,2
+block_number,3,4
+block_suffix,7,1
+lot_number,8,3,
+lot_suffix,11,1
+unused,12,23
+source,35,1
+address_line1,36,27
+address_line2,63,27
+address_line3,90,27
+address_line4,117,27
+zipcode,144,5
+last_change_date,153,6
+unused,159,10
